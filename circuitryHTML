@@ -13,7 +13,7 @@ $(document).ready(function(){
 });
 </script>
 </head>
-<body>
+
 <button class="btn1">Hide</button>
 <button class="btn2">View: The Hook</button>
 
@@ -40,5 +40,5 @@ the big idea. They will be learning what makes projects like these work. During 
 <button class="btn1">Hide</button>
 <button class="btn2">View: Activity 1</button>
 
-</body>
+
 </html>
