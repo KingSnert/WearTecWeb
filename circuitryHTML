@@ -14,6 +14,8 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
+<button class="btn1">Slide up</button>
+<button class="btn2">Slide down</button>
 
 <p>The hook: “sew” what?
 1. Tell students they are going to watch a video that has components of wearable technologies. You want them to watch for:
