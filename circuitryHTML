@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $(".btn1").click(function(){
+        $("p").slideUp();
+    });
+    $(".btn2").click(function(){
+        $("p").slideDown();
+    });
+});
+</script>
+</head>
+<body>
+
+<p>The hook: “sew” what?
+1. Tell students they are going to watch a video that has components of wearable technologies. You want them to watch for:
+■  Elements that make the wearable technology work.
+■  The problem that was solved with this wear- able technology.
+2.Watch the video.
+<span class="f-video-editor fr-fvn fr-tnv" contenteditable="false"><iframe height="315" src="https://www.youtube.com/embed/ZtNEPkwCfxA" width="100%"></iframe></span>
+3.Discuss: The most important question to answer is:
+“What problem do you think the wearable solved?”
+This begins the foundation of the engineering de- sign process: “identifying a problem.” In addition
+to answering the question above discuss elements
+that make the turn signal jacket work.
+■  Describe to a partner the project you just saw.
+■  What elements/parts did the wearable use?
+(Power, button, switch lights, connections,
+thread, conductor, user input, etc.)
+■  What problem do you think the wearable
+solved?
+■  Explain to the participants that this video is
+the big idea. They will be learning what makes projects like these work. During WearTec they won’t make this jacket, but will have the nec- essary skills to plan and build a similar jacket by the end of the program.  </body></p>
+
+<button class="btn1">Slide up</button>
+<button class="btn2">Slide down</button>
+
+</body>
+</html>
