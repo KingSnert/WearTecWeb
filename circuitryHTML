@@ -14,8 +14,8 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-<button class="btn1">Slide up</button>
-<button class="btn2">Slide down</button>
+<button class="btn1">Hide</button>
+<button class="btn2">View: The Hook</button>
 
 <p>The hook: “sew” what?
 1. Tell students they are going to watch a video that has components of wearable technologies. You want them to watch for:
@@ -37,8 +37,8 @@ solved?
 ■  Explain to the participants that this video is
 the big idea. They will be learning what makes projects like these work. During WearTec they won’t make this jacket, but will have the nec- essary skills to plan and build a similar jacket by the end of the program.  </body></p>
 
-<button class="btn1">Slide up</button>
-<button class="btn2">Slide down</button>
+<button class="btn1">Hide</button>
+<button class="btn2">View: Activity 1</button>
 
 </body>
 </html>
